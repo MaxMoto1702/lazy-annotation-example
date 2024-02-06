@@ -22,7 +22,7 @@ public class BarServiceImpl implements BarService {
 }
 ```
 
-If remove @Lazy annotation then:
+If remove `@Lazy` annotation then:
 ```
 ***************************
 APPLICATION FAILED TO START
